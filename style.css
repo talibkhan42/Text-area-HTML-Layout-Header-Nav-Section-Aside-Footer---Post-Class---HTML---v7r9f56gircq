@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.all_img{
+    /* background-position: relative; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.img1{
+    background-image: url("img/india1\ \(1\).jpg");
+    height: 700px;
+}
+.img2{
+    background-image: url("img/london.jpg");
+    height: 500px;
+    /* for text on img */
+    text-align: center;
+    padding-top:250px;
+
+    
+}
+.img3{
+    background-image: url("img/dubai2.jpg");
+    height: 500px;
+    text-align: center;
+    padding-top:250px;
+
+    
+}
+.img4{
+    background-image: url("img/maldives2.jpg");
+    height: 500px;
+    text-align: center;
+    padding-top:250px;
+}
+.img5{
+    background-image: url("img/newzeland.jpg");
+    height: 500px;
+    text-align: center;
+    padding-top:250px;
+    
+}
+.img6{
+    background-image: url("img/china.jpg");
+    height: 500px;
+    text-align: center;
+    padding-top:250px;
+    
+}
+.img7{
+    background-image: url("img/japan.jpg");
+    height: 500px;
+    text-align: center;
+    padding-top:250px;
+    
+}
+.img8{
+    background-image: url("img/iraq.jpg");
+    height: 700px;
+    text-align: center;
+    padding-top:250px;
+    
+}
+.country_name{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+span{
+    background-color:black;
+    color:white;
+    padding: 20px 10px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+#text{
+    font-size:50px ;
+    font-family: "Lato", sans-serif;
+    letter-spacing: 8px;
+
+}
+
+
+.section_text{
+    text-align: center;
+    background-color: #282e34;
+    color: #ddd;
+    padding: 30px 50px;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+h1{
+    font-size:50px ;
+   padding-bottom:20px;
+    /* letter-spacing: 4px; */
+}
+p{
+    text-align: center;
+    /* background-color:rgba(16, 9, 9, 0.49); */
+    font-size:20px ;
+}
